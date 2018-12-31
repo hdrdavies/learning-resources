@@ -27,6 +27,9 @@ Javascript Jabber
 ### Blogs
 Martin Fowler
 
+### Newsletters
+
+### Compiled lists
 
 ### YouTube channels
 
