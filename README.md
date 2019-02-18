@@ -24,6 +24,9 @@ At current writing, there isn't a huge number of great books for Kotlin, and few
 ##### [Apprenticeship patterns](http://shop.oreilly.com/product/9780596518387.do) by Dave Hoover, Adewale Oshineye  
 Recommended to me by a very experienced software engineer, this book will be helpful to novices and experts alike. It describes many different techniques like how to stay motivated, how to always be learning and how to improve yourself with feedback. 
 
+##### [How to Win Friend and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by Dale Carnegie  
+You may have noticed this is not a technical book! As a modern software engineer, you work in teams of vastly different kinds of people with various personalities and skills. Your effectiveness as an engineer is dependent on how well you can cooperate with them. I've not read a better book on how to communicate with others effectively and how to win people over to your way of thinking. This will improve your life inside and outside the workplace.
+
 ### Podcasts
 [Fragmented](https://fragmentedpodcast.com/)  
 A great way to keep up to date with the Android community. They cover technical aspects like databases, kotlin and architecture, but also softer topics like tools, working as a software engineer and productivity. 
@@ -41,6 +44,7 @@ I find newsletters one of the best ways to keep up to date. These are the ones I
 [Kotlin weekly](http://www.kotlinweekly.net/)  
 [Javascript weekly](https://androidweekly.net/)  
 [Android weekly](https://javascriptweekly.com/)  
+[Increment](https://increment.com/) - an online publication with longer, in-depth articles from industry experts on a wide range of subjects such as security, programming languages and internalisation. 
 
 ### Compiled lists
 I find the "awesome" series to be handy for finding tools or other resources:  
