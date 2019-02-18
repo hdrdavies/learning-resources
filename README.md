@@ -1,5 +1,5 @@
 # Learning Resources
-I've mainly worked as a full-stack Javascript and an Android developer, so most stuff here is related to those subjects. I like to mix up how I take in information - not just books but also videos and podcasts. 
+I've mainly worked as a full-stack Javascript and a Kotlin / Android developer, so most stuff here is related to those subjects. I like to mix up how I take in information - not just books but also videos and podcasts. 
 
 ### Books
 
