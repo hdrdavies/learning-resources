@@ -22,7 +22,7 @@ At current writing, there isn't a huge number of great books for Kotlin, and few
 ##### [Apprenticeship patterns](http://shop.oreilly.com/product/9780596518387.do) by Dave Hoover, Adewale Oshineye  
 Recommended to me by a very experienced software engineer, this book will be helpful to novices and experts alike. It describes many different techniques like how to stay motivated, how to always be learning and how to improve yourself with feedback. 
 
-##### [How to Win Friend and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by Dale Carnegie  
+##### [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by Dale Carnegie  
 You may have noticed this is not a technical book! As a modern software engineer, you work in teams of vastly different kinds of people with various personalities and skills. Your effectiveness as an engineer is dependent on how well you can cooperate with them. I've not read a better book on how to communicate with others effectively and how to win people over to your way of thinking. This will improve your life inside and outside the workplace.
 
 ### Podcasts
@@ -35,7 +35,7 @@ A podcast all about Kotlin! Host Hadi Hariri interviews engineers from many diff
 ### Blogs
 [Martin Fowler](https://martinfowler.com/)'s website is a treasure trove of great articles on software engineering, design and agile.    
 
-[Typealias](typealias.com) is a rich resource of (illustrated) articles on Kotlin from Dave Leeds. Great for both the Kotlin beginner and someone who is trying to understand the language more deeply. 
+[Typealias](https://typealias.com/) is a rich resource of (illustrated) articles on Kotlin from Dave Leeds. Great for both the Kotlin beginner and someone who is trying to understand the language more deeply. 
 
 ### Newsletters
 I find newsletters one of the best ways to keep up to date. These are the ones I've subscribed to in the past.  
